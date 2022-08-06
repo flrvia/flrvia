@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/flrvia">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=midnight-purple&hide_border=false&border_color=55078a&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&&hide_border=false&border_color=55078a&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=midnight-purple&hide_border=false&border_color=55078a&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&&hide_border=false&border_color=55078a&theme=midnight-purple"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
