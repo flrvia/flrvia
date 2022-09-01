@@ -1,6 +1,6 @@
 ## Olá! Sou a Flávia Santana ❣️
 
-### ♾️ Desenvolvedora front-end em constante evolução.
+### ♾️ Desenvolvedora web Java em constante evolução.
 ###
 ###
 
