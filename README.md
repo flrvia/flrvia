@@ -1,10 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)(e)!+;Sou+a+Flávia:+Desenvolvedora+Java+Full-Stack.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)(e)!+;Sou+a+Flávia:+Desenvolvedora+Java+Full-Stack.;Em+constante+evolução...)](https://git.io/typing-svg)
 
 <p>&nbsp;</p>
 
-### ♾️ Desenvolvedora web Java em constante evolução.
-###
-###
+## ❤️‍🔥 Sobre mim:
+
+##### • 📚 Formada em Análise e Desenvolvimento de Sistemas (UBC)
+
+##### • 👩🏽‍💻 Estudante no bootcamp da Generation Brasil (Developer Full-Stack)
+
+##### • 🔤 Inglês e Espanhol
+
+##### • 🌃 São Paulo - Brasil
+
+##### • 📱 Sou apaixonada por UX e UI ♥
+
+#
 
 <div align="center">
   <a href="https://github.com/flrvia">
@@ -17,6 +27,10 @@
   <img align="center" alt="Fla-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fla-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Fla-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Fla-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Fla-MYsql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Fla-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
           
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/82ab859368b5d674b2996770c188e401.gif" width="125" height="125" border="100" align="right" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
