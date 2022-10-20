@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/flrvia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=highcontrast&title_color=1a0504&text_color=1a0504&bg_color=10,4287f5,00bd71&icon_color=40ff00&border_color=000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&theme=highcontrast&title_color=1a0504&bg_color=10,00bd71,4287f5&icon_color=ff8ad8&&text_color=1a0504&border_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=highcontrast&title_color=1a0504&text_color=1a0504&bg_color=10,00263d,00bd71&icon_color=40ff00&border_color=000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&theme=highcontrast&title_color=1a0504&bg_color=10,00bd71,00263d&icon_color=ff8ad8&&text_color=1a0504&border_color=000000"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
