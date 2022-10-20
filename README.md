@@ -7,15 +7,15 @@
 ## ❤️‍🔥 Sobre mim:
 
 ```javascript
-##### • 📚 Formada em Análise e Desenvolvimento de Sistemas (UBC)
+ • 📚 Formada em Análise e Desenvolvimento de Sistemas (UBC)
 
-##### • 👩🏽‍💻 Estudante no bootcamp da Generation Brasil (Developer Full-Stack)
+ • 👩🏽‍💻 Estudante no bootcamp da Generation Brasil (Developer Full-Stack)
 
-##### • 🔤 Inglês e Espanhol
+ • 🔤 Inglês e Espanhol
 
-##### • 🌃 São Paulo - Brasil
+ • 🌃 São Paulo - Brasil
 
-##### • 📱 Sou apaixonada por UX e UI ♥
+ • 📱 Sou apaixonada por UX e UI ♥
 ```
 #
 
