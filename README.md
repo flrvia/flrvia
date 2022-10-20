@@ -3,7 +3,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)(e)!+;Sou+a+Flávia:+Desenvolvedora+Java+Full-Stack.;Em+constante+evolução...)](https://git.io/typing-svg)
 
  
-<img align='right' src="https://onlinepngtools.com/images/examples-onlinepngtools/sunset.gif" width="300" />
+<img align='right' src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" width="400" />
 
 <p>&nbsp;</p>
 
@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/flrvia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=highcontrast&title_color=1a0504&text_color=1a0504&bg_color=10,e61f00,eb7100&icon_color=00e5ff&border_color=1a0504&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&theme=highcontrast&title_color=1a0504&bg_color=10,eb7100,e61f00&icon_color=ff8ad8&&text_color=1a0504&border_color=fc1c03"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=highcontrast&title_color=1a0504&text_color=1a0504&bg_color=10,4287f5,00bd71&icon_color=40ff00&border_color=000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&theme=highcontrast&title_color=1a0504&bg_color=10,00bd71,4287f5&icon_color=ff8ad8&&text_color=1a0504&border_color=000000"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
