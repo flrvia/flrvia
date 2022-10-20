@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/flrvia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=highcontrast&title_color=1a0504&text_color=1a0504&bg_color=30,e61f00,eb7100&icon_color=00e5ff&border_color=1a0504&include_all_commits=true&count_private=true"/>
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&theme=highcontrast&title_color=1a0504&bg_color=30,e61f00,eb7100&icon_color=ff8ad8&&text_color=1a0504&border_color=fc1c03"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&theme=highcontrast&title_color=1a0504&bg_color=30,e61f00,eb7100&icon_color=ff8ad8&&text_color=1a0504&border_color=fc1c03"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
