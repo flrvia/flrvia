@@ -2,8 +2,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)(e)!+;Sou+a+Flávia:+Desenvolvedora+Java+Full-Stack.;Em+constante+evolução...)](https://git.io/typing-svg)
 
- 
-<img align='right' src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" width="400" />
+ <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 
 <p>&nbsp;</p>
 
@@ -23,10 +22,13 @@
 ```
 # 
 
-<div align="center">
-  <a href="https://github.com/flrvia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flrvia&show_icons=true&theme=highcontrast&title_color=1a0504&text_color=1a0504&bg_color=10,00263d,00bd71&icon_color=40ff00&border_color=000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrvia&layout=compact&langs_count=7&theme=highcontrast&title_color=1a0504&bg_color=10,00bd71,00263d&icon_color=ff8ad8&&text_color=1a0504&border_color=000000"/>
+
+<p align="left">
+<a href="https://github.com/flrvia">
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=flrvia&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=flrvia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+ <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=flrvia&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=flrvia&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
+</p>
+
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,9 +47,10 @@
    ##
  
 <div> 
-  <a href="https://instagram.com/flavsantanax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:flavixbatista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/flaviasantanab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/flavsantanax" target="_blank"><img src="https://img.shields.io/badge/flavsantanax-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/flaviasantanab" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank"/></a> 
+  <a href="https://twitter.com/flrvia"><img src="https://img.shields.io/badge/@flrvia-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2" target="_blank"/></a>
+  	<a href = "mailto:flavixbatista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
   ![Snake animation](https://github.com/flrvia/flrvia/blob/output/github-contribution-grid-snake.svg)
