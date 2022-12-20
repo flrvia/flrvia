@@ -11,7 +11,7 @@
 ```javascript
 📚 Formada em Análise e Desenvolvimento de Sistemas (UBC)
 
-👩🏽‍💻 Estudante no bootcamp da Generation Brasil (Developer Full-Stack)
+👩🏽‍💻 Junior Full Stack Developer in Generation Brasil
 
 🔤 Inglês e Espanhol
 
