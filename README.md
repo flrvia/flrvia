@@ -11,7 +11,7 @@
 ```javascript
 📚 Formada em Análise e Desenvolvimento de Sistemas (UBC)
 
-👩🏽‍💻 Junior Full Stack Developer in Generation Brasil
+👩🏽‍💻 Junior Full Stack Developer 
 
 🔤 Inglês e Espanhol
 
