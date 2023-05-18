@@ -1,6 +1,6 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!+;Sou+a+Flávia:+Desenvolvedora+Java+Full-Stack.;Em+constante+evolução...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!+;Sou+a+Flávia:+Desenvolvedora+Full-Stack.;Em+constante+evolução...)](https://git.io/typing-svg)
 
  <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 
@@ -9,15 +9,15 @@
 ## ❤️‍🔥 Sobre mim:
 
 ```javascript
-📚 Formada em Análise e Desenvolvimento de Sistemas (UBC)
+📚 Formada em Análise e Desenvolvimento de Sistemas (UBC) e Pós Graduanda em Projetos de Cloud Computing
 
-👩🏽‍💻 Junior Full Stack Developer 
+👩🏽‍💻 Estagiária Engenharia de Sistemas at Livelo
 
 🔤 Inglês e Espanhol
 
 🌃 São Paulo - Brasil
 
-📱 Sou apaixonada por UX e UI ♥
+📱 Apaixonada por UX e UI ♥
 
 ```
 # 
