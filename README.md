@@ -12,7 +12,7 @@
 
 📚 Graduated in Systems Analysis and Development (UBC) and Post Graduating in Cloud Computing Projects (Descomplica)
 
-👩🏽‍💻 Systems Engineering Intern at Livelo
+👩🏽‍💻 Systems Engineer at Livelo
 
 🔤 English and Spanish
 
